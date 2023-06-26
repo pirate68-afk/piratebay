@@ -1,1 +1,1 @@
-# piratebay
+# piratebay.github.io
